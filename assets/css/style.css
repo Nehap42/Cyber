@@ -709,6 +709,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     font-weight: 600;
     margin-top: 15px;
 }
+
+.underline-div{
+    height: 5px;
+    width: 100%;
+    background-color: #000;
+}
 .points  ul{
     list-style: disc !important;
     font-size: 14px;
